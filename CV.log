@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.3)  2 APR 2022 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.3)  4 APR 2022 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -509,13 +509,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 25D6182A3EB964190B3582EDF406C6C4;1319.
  ) 
 Here is how much of TeX's memory you used:
- 13800 strings out of 478994
- 202020 string characters out of 5858185
- 544590 words of memory out of 5000000
+ 13795 strings out of 478994
+ 201975 string characters out of 5858185
+ 544716 words of memory out of 5000000
  30878 multiletter control sequences out of 15000+600000
- 438107 words of font info for 181 fonts, out of 8000000 for 9000
+ 437826 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,11n,74p,1191b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,74p,1191b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/l
 ocal/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</u
@@ -524,7 +524,7 @@ sr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 ocal/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (3 pages, 90542 bytes).
+Output written on CV.pdf (3 pages, 90771 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream

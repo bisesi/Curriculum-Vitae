@@ -5,7 +5,7 @@ output:
     template: cv-latex.tex
 geometry: margin=.7in
 
-title: "CV"
+title: "Bisesi-Curriculum-Vitae"
 author: AVE T. BISESI
 
 fontawesome: yes
@@ -50,6 +50,12 @@ Webster, A., Metcalf, A., Kelly, L., **Bisesi, A.**, Marnik-Said, M,. Colbeck, C
 
 Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E., Mellors, E.F., Glavin, B., Vrbanac, V.D., Krupp, K., **Bisesi, A.**, Tager, A.M., Knipe, D.M., Boutwell, C. & Allen, T.A. (2019). Immunization of BLT Humanized Mice Redirects T Cell Responses to Gag and Reduces Acute HIV-1 Viremia. Journal of Virology, JVI.00814-19, doi: 10.1128/JVI.00814-19. 
 
+**Ave Bisesi**. December 2018. Scientific Colonialism and Biopiracy: Moving Beyond Patents and Intellectual Property. 	*The Synapse*. 18.
+
+**Ave Bisesi**. September 2017. The Nature of Knowledge: Decolonizing Scientific Expertise and Discourse. *The	Synapse*. 13.
+
+**Ave Bisesi**. May 2017. Making a Case for Citizen Science: Innovation in Science Education and Accessibility. *The	Synapse*. 12.
+
 *In prep*
 
 **Bisesi, A.**, Rosenthal, J., and Roles, A.J. Testing mechanisms of rearrangement in the mitogenome of crayfish. 
@@ -92,15 +98,15 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 - **Carol Houck Smith Scholarship**, Warren Wilson College MFA Program for Writers \hfill 2020
 - **Scientific Teaching Fellow**, HHMI, NSF and Yale Center for Teaching and Learning \hfill 2019 - 2020
 - **Rodney Jack Scholarship**, Warren Wilson College MFA Program for Writers \hfill 2019 - 2020
-- **HHMI Post-Graduate STEM Fellow**, Oberlin College \hfill 2018 - 2020
-- **ACCEL Fellowship**, Nemours Undergraduate Research Program \hfill 2016
+- **HHMI Post-Graduate STEM Fellowship**, Oberlin College \hfill 2018 - 2020
+- **ACCEL Undergraduate Reasearch Fellowship**, Nemours Undergraduate Research Program \hfill 2016
 
 # TEACHING
 
 **Field Guides Mentor** \hfill Aug 2020 - present  
 *University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
 
-- Provide one-on-one mentorship for queer and trans undergraduates in CBS interested in pursuing graduate school
+- Provide one-on-one mentorship and training for undergraduates in CBS interested in pursuing graduate school
 
 **Teaching Assistant and Peer Tutor** \hfill Jan 2016 - May 2017  
 *Oberlin College, Department of Biology, Oberlin, OH*
@@ -124,13 +130,7 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 **Ave Bisesi** and Nicollette Mitchell. CLEARing the Way: Establishing an Inclusive Peer Mentorship Program. Talk presented at: 2019 Project Kaleidoscope Upstate NY Regional Networking Meeting; April 13, 2019; Rochester Institute	of Technology, Rochester, NY.
 
-**Ave Bisesi**. December 2018. Scientific Colonialism and Biopiracy: Moving Beyond Patents and Intellectual Property. 	*The Synapse*. 18.
-
 **Ave Bisesi**. Uncovering Constraints on the Evolution of Genome Architecture: A Computational Analysis of Models of Gene Rearrangement in Metazoan Mitochondrial DNA. Poster presented at: Evolution Meetings 2017; June 25, 2017; Portland, OR.
-
-**Ave Bisesi**. September 2017. The Nature of Knowledge: Decolonizing Scientific Expertise and Discourse. *The	Synapse*. 13.
-
-**Ave Bisesi**. May 2017. Making a Case for Citizen Science: Innovation in Science Education and Accessibility. *The	Synapse*. 12.
 
 # MENTORSHIP
 
