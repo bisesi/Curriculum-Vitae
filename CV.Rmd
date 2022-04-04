@@ -9,9 +9,9 @@ title: "CV"
 author: AVE T. BISESI
 
 fontawesome: yes
-email: blank
-github: blnak
-twitter: blank
+email: "bises004@umn.edu"
+github: "bisesi"
+twitter: "@atbisesi"
 phone: "812-345-1593"
 updated: no
 
