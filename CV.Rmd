@@ -28,10 +28,10 @@ urlcolor: blue
 **Ph.D, Ecology, Evolution and Behavior** \hfill Aug 2020 - present  
 *University of Minnesota - Twin Cities, St. Paul, MN*
 
-- Advisor: William R. Harcombe
-- Dissertation: Predicting the eco-evolutionary dynamics of multitrophic interactions in moderately complex ecosystems
-- GPA: 3.95
-- Graduate Minor in *Data Science*
+- **Advisor**: William R. Harcombe
+- **Written preliminary exam (in-progress)**: Predicting the eco-evolutionary dynamics of multitrophic interactions in moderately complex ecosystems
+- **GPA**: 3.95
+- Graduate Minor in **Data Science**
 
 **M.F.A., Creative Writing, Fiction** \hfill July 2018 - Jan 2021  
 *Warren Wilson College, Swannanoa, NC*
@@ -39,10 +39,10 @@ urlcolor: blue
 **B.A., Biology with High Honors** \hfill Aug 2013 - May 2017  
 *Oberlin College, Oberlin, OH*
 
-- Advisor: Angela J. Roles
-- Thesis: Uncovering Constraints on the Evolution of Genome Architecture: Computational Analysis of Models of Gene Rearrangement in Metazoan Mitochondrial DNA
-- GPA: 3.8
-- Associate membership in Sigma Xi, membership in Phi Beta Kappa
+- **Advisor**: Angela J. Roles
+- **Thesis**: Uncovering Constraints on the Evolution of Genome Architecture: Computational Analysis of Models of Gene Rearrangement in Metazoan Mitochondrial DNA
+- **GPA**: 3.8
+- Associate membership in **Sigma Xi**, membership in **Phi Beta Kappa**
 
 # PUBLICATIONS
 
@@ -50,17 +50,17 @@ Webster, A., Metcalf, A., Kelly, L., **Bisesi, A.**, Marnik-Said, M,. Colbeck, C
 
 Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E., Mellors, E.F., Glavin, B., Vrbanac, V.D., Krupp, K., **Bisesi, A.**, Tager, A.M., Knipe, D.M., Boutwell, C. & Allen, T.A. (2019). Immunization of BLT Humanized Mice Redirects T Cell Responses to Gag and Reduces Acute HIV-1 Viremia. Journal of Virology, JVI.00814-19, doi: 10.1128/JVI.00814-19. 
 
-**Ave Bisesi**. December 2018. Scientific Colonialism and Biopiracy: Moving Beyond Patents and Intellectual Property. 	*The Synapse*. 18.
-
-**Ave Bisesi**. September 2017. The Nature of Knowledge: Decolonizing Scientific Expertise and Discourse. *The	Synapse*. 13.
-
-**Ave Bisesi**. May 2017. Making a Case for Citizen Science: Innovation in Science Education and Accessibility. *The	Synapse*. 12.
-
 *In prep*
 
 **Bisesi, A.**, Rosenthal, J., and Roles, A.J. Testing mechanisms of rearrangement in the mitogenome of crayfish. 
 
 # APPOINTMENTS
+
+**Graduate Research Assistant** \hfill Jan 2022 - present  
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- National Science Foundation grant: "Phage host range evolution in spatially structured microbiomes"
+- Co-PIs: William R. Harcombe, Wolfram Moebius, Carey Nadell
 
 **Graduate Teaching Assistant** \hfill Aug 2021 - Jan 2022  
 *University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
@@ -73,7 +73,7 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 - Develop and facilitate student programming, workshops, panels, speaker series, journal clubs and discussion spaces for students, staff and faculty
 - Develop and present training modules on anti-racism, implicit bias, imposter syndrome, stereotype threat, science communication, science outreach
-- Hire, train, manage and mentor a staff of ~15 undergraduate peer tutors
+- Hire, train, manage and mentor a staff of 15-20 undergraduate peer tutors
 
 **Research Technician** \hfill June 2017 - May 2018  
 *Ragon Institute of MGH, MIT and Harvard, Allen laboratory, Cambridge, MA*
@@ -92,7 +92,7 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 # GRANTS AND AWARDS
 
-- **AMS Summer Policy Colloquium Travel and Attendance Grant**, NSF \hfill 2021
+- **AMS Summer Policy Colloquium Travel and Attendance Grant**, National Science Foundation \hfill 2021
 - **Chancellor’s Fellowship for Graduate Study (declined)**, University of California-Berkeley \hfill 2020 - 2022
 - **EEB Excellence Fellowship for Graduate Study**, University of Minnesota \hfill 2020 - 2021
 - **Carol Houck Smith Scholarship**, Warren Wilson College MFA Program for Writers \hfill 2020
@@ -134,9 +134,28 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 # MENTORSHIP
 
+**Undergraduate Resarch Mentor** \hfill Aug 2020 - present  
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- Provide lab training and supervision, advise individual and collaborative undergraduate projects
+- 2020-2021: Carissa Metzger
+- 2021-2022: Carissa Metzger, Carmen Crutchfield
+
+**Field Guides Mentor** \hfill Aug 2020 - present  
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- Meet bi-weekly to provide a one-on-one resource for information regarding graduate school and science careers
+- 2020-2021: Kayla Siemann
+- 2021-2022: Kayla Siemann, Sydney Gunter
+
 # OUTREACH AND ADVOCACY
 
-**Institute on the Environment Graduate Scholar** \hfill Aug 2021 - present  
+**Queer Science** \hfill April 2022 - present  
+*University of Minnesota - Twin Cities, Minneapolis, MN*
+
+- Workshop facilitator and volunteer for twice-yearly events showcasing scientific research at the university level for local LGBTQ high school students
+
+**Institute on the Environment Graduate Scholar** \hfill Aug 2021 - May 2022  
 *University of Minnesota - Twin Cities, St. Paul, MN*
 
 - Member of interdisciplinary cohort program focused on sharing academic work, engaging with diverse stakeholders, and developing resources on ecosystem health
@@ -144,7 +163,16 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 **AMS Summer Policy Colloquium Fellow** \hfill June 2021  
 *American Meterological Society, Washington, D.C.*
 
-- NSF fellow participant in workshops, colloquia and meetings with federal officials and Congressional staffers covering current science policy issues
+- NSF Fellow and participant in workshops, colloquia and meetings with federal officials and Congressional staffers covering current science policy issues
+
+***The Synapse*** \hfill Aug 2016 - June 2020  
+*Oberlin College, Oberlin, OH*
+
+- Writer and contributor to Oberlin College's science communication magazine of record
+- Articles include:
+    - December 2018. Scientific Colonialism and Biopiracy: Moving Beyond Patents and   Intellectual Property. 
+    - September 2017. The Nature of Knowledge: Decolonizing Scientific Expertise and Discourse.
+    - May 2017. Making a Case for Citizen Science: Innovation in Science Education and Accessibility.
 
 # PROFESSIONAL SERVICE
 
