@@ -30,7 +30,7 @@ urlcolor: blue
 
 - **Advisor**: William R. Harcombe
 - **Written preliminary exam (in-progress)**: Predicting the eco-evolutionary dynamics of multitrophic interactions in moderately complex ecosystems
-- **GPA**: 3.95
+- **GPA**: 3.88
 - Graduate Minor in **Data Science**
 
 **M.F.A., Creative Writing, Fiction** \hfill July 2018 - Jan 2021  
@@ -92,6 +92,7 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 # GRANTS AND AWARDS
 
+- **EEB Travel Award**, University of Minnesota \hfill 2022
 - **AMS Summer Policy Colloquium Travel and Attendance Grant**, National Science Foundation \hfill 2021
 - **Chancellor’s Fellowship for Graduate Study (declined)**, University of California-Berkeley \hfill 2020 - 2022
 - **EEB Excellence Fellowship for Graduate Study**, University of Minnesota \hfill 2020 - 2021
