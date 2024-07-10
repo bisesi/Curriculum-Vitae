@@ -105,7 +105,7 @@ Connolly, J.A., Del Carratore, F., Schmidt, K., **Bisesi, A.**, Martinson, J.N.V
 
 # SKILLS
 
-- R (expert), Python (proficient), \LaTeX, UNIX environments, GitHub
+- R (expert), Python (proficient), \LaTeX, UNIX environments, GitHub, high-performance computing 
 - Analysis of microbial transcriptomic, metabolomic and genomic datasets
 - Biostatistics and machine learning approaches 
 - Microbiological and molecular biology techniques
