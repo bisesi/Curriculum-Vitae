@@ -1,0 +1,112 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "Bisesi-Resume"
+author: AVE T. BISESI
+
+fontawesome: yes
+email: "bises004@umn.edu"
+github: "bisesi"
+twitter: "@atbisesi"
+phone: "812-345-1593"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+# EDUCATION
+
+**Ph.D, Ecology, Evolution and Behavior** \hfill Aug 2020 - present  
+*University of Minnesota - Twin Cities, St. Paul, MN*
+
+- **Advisor**: William R. Harcombe
+- **Written preliminary exam (pass with commendations)**: Predicting the eco-evolutionary dynamics of multitrophic interactions in moderately complex ecosystems
+- **GPA**: 3.88
+- Dissertation committee: William R. Harcombe, Elizabeth Borer, Michael Travisano, Steven Bowden
+- Graduate Minor in **Data Science**
+
+**B.A., Biology with High Honors** \hfill Aug 2013 - May 2017  
+*Oberlin College, Oberlin, OH*
+
+- **Advisor**: Angela J. Roles
+- **Thesis**: Uncovering Constraints on the Evolution of Genome Architecture: Computational Analysis of Models of Gene Rearrangement in Metazoan Mitochondrial DNA
+- **GPA**: 3.8
+- Associate membership in **Sigma Xi**, membership in **Phi Beta Kappa**
+
+# PUBLICATIONS
+**Bisesi, A**., Möbius, W., Nadell, C., Hansen, E.G., Bowden, S.D., Harcombe, W.R. (2024). Bacteriophage host range is impacted by interactions between bacteria. *mSystems*. 		https://doi.org/10.1128/msystems.01177-23
+
+Webster, A., Metcalf, A., Kelly, L., **Bisesi, A.**, Marnik-Said, M,. Colbeck, C., Marine, R., Vinces, M., Campbell, A., Allen, T. Undergraduates lived experience of project-/problem-based learning in Introductory Biology. *Adv Physiol Educ*. 2022 Jan 6. doi: 10.1152/advan.00042.2021. 
+
+Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E., Mellors, E.F., Glavin, B., Vrbanac, V.D., Krupp, K., **Bisesi, A.**, Tager, A.M., Knipe, D.M., Boutwell, C., Allen, T.A. (2019). Immunization of BLT Humanized Mice Redirects T Cell Responses to Gag and Reduces Acute HIV-1 Viremia. *Journal of Virology*, JVI.00814-19, doi: 10.1128/JVI.00814-19. 
+
+*In review*
+
+Shaw, A., **Bisesi, A.**, Wojan, C., Kim, D., Torstenson, M., Naven Narayanan, Lutz, P., Ales, R., Shao, C. (2024). Six personas to adopt when framing theoretical research questions in biology. *Proceedings of the Royal Society B*. 
+
+Connolly, J.A., Del Carratore, F., Schmidt, K., **Bisesi, A.**, Martinson, J.N.V., Chua, J., Kuhs, M., Boneza, M., Heinsch, S., Kinkel, L., Smanski, M., Harcombe, W.R., Breitling, R., Takano, E. (2024). Multi-omics study of a sympatric Streptomyces community and the key signalling function of siderophores. *The ISME Journal*.
+
+*In prep*
+
+**Bisesi, A.** and Harcombe, W. R. Metabolic remodeling of microbes by obligate intracellular parasites alters species ratios in microbial communities.
+
+**Bisesi, A.**, Rosenthal, J., and Roles, A.J. Testing mechanisms of rearrangement in the mitogenome of crayfish. 
+
+# RELEVANT EXPERIENCE
+
+**Graduate Research Assistant** \hfill Jan 2022 - present  
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- National Science Foundation grant: "Phage host range evolution in spatially structured microbiomes"
+- Co-PIs: William R. Harcombe, Wolfram Moebius, Carey Nadell
+
+**Data Carpentries Instructor** \hfill Sept 2022 - present  
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- Certified instructor for Data Carpentries Core Curriculum, including: Data Carpentry, Library Carpentry, and Software Carpentry
+- Co-instructor and helper for \LaTeX, UNIX shell scripting, R for Reproducible Data Science, and Python workshops hosted at UMN
+
+**Inclusive Excellence Fellow** \hfill Aug 2018 - June 2020  
+*Oberlin College, Howard Hughes Medical Institute, Oberlin, OH*
+
+- Develop and facilitate student programming, workshops, panels, speaker series, journal clubs and discussion spaces for students, staff and faculty
+- Develop and present training modules on anti-racism, implicit bias, imposter syndrome, stereotype threat, science communication, science outreach
+- Hire, train, manage and mentor a staff of 15-20 undergraduate peer tutors
+
+**Research Technician** \hfill June 2017 - May 2018  
+*Ragon Institute of MGH, MIT and Harvard, Allen laboratory, Cambridge, MA*
+
+- Use molecular biology and bioinformatics/genomic techniques to investigate the viral evolution of HIV based on studies of the humanized mouse model
+
+# GRANTS AND AWARDS
+
+- **Elmer C. Birney Fellowship**, University of Minnesota \hfill 2024
+- **BTI Travel Award**, University of Minnesota \hfill 2024
+- **EEB Travel Award**, University of Minnesota \hfill 2024
+- **EEB Summer Fellowship**, University of Minnesota \hfill 2023
+- **EEB Travel Award**, University of Minnesota \hfill 2022
+- **AMS Summer Policy Colloquium Travel and Attendance Grant**, National Science Foundation \hfill 2021
+- **Chancellor’s Fellowship for Graduate Study (declined)**, University of California-Berkeley \hfill 2020 - 2022
+- **EEB Excellence Fellowship for Graduate Study**, University of Minnesota \hfill 2020 - 2021
+- **Institute for Cellular and Molecular Biology Graduate Fellowship (declined)**, University of Austin-Texas \hfill 2020 - 2021
+- **Scientific Teaching Fellow**, HHMI, NSF and Yale Center for Teaching and Learning \hfill 2019 - 2020
+- **HHMI Post-Graduate STEM Fellowship**, Oberlin College \hfill 2018 - 2020
+- **Norman H. Wright Prize in Biology**, Oberlin College \hfill 2017
+- **John F. Oberlin Scholarship**, Oberlin College \hfill 2013 - 2017
+
+# SKILLS
+
+- R (expert), Python (proficient), \LaTeX, UNIX environments, GitHub
+- Analysis of microbial transcriptomic, metabolomic and genomic datasets
+- Biostatistics and machine learning approaches 
+- Microbiological and molecular biology techniques
+

@@ -29,8 +29,9 @@ urlcolor: blue
 *University of Minnesota - Twin Cities, St. Paul, MN*
 
 - **Advisor**: William R. Harcombe
-- **Written preliminary exam (in-progress)**: Predicting the eco-evolutionary dynamics of multitrophic interactions in moderately complex ecosystems
+- **Written preliminary exam (pass with commendations)**: Predicting the eco-evolutionary dynamics of multitrophic interactions in moderately complex ecosystems
 - **GPA**: 3.88
+- Dissertation committee: William R. Harcombe, Elizabeth Borer, Michael Travisano, Steven Bowden
 - Graduate Minor in **Data Science**
 
 **M.F.A., Creative Writing, Fiction** \hfill July 2018 - Jan 2021  
@@ -45,12 +46,21 @@ urlcolor: blue
 - Associate membership in **Sigma Xi**, membership in **Phi Beta Kappa**
 
 # PUBLICATIONS
+**Bisesi, A**., Möbius, W., Nadell, C., Hansen, E.G., Bowden, S.D., Harcombe, W.R. (2024). Bacteriophage host range is impacted by interactions between bacteria. *mSystems*. 		https://doi.org/10.1128/msystems.01177-23
 
-Webster, A., Metcalf, A., Kelly, L., **Bisesi, A.**, Marnik-Said, M,. Colbeck, C., Marine, R., Vinces, M., Campbell, A., Allen, T. Undergraduates lived experience of project-/problem-based learning in Introductory Biology. Adv Physiol Educ. 2022 Jan 6. doi: 10.1152/advan.00042.2021. 
+Webster, A., Metcalf, A., Kelly, L., **Bisesi, A.**, Marnik-Said, M,. Colbeck, C., Marine, R., Vinces, M., Campbell, A., Allen, T. Undergraduates lived experience of project-/problem-based learning in Introductory Biology. *Adv Physiol Educ*. 2022 Jan 6. doi: 10.1152/advan.00042.2021. 
 
-Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E., Mellors, E.F., Glavin, B., Vrbanac, V.D., Krupp, K., **Bisesi, A.**, Tager, A.M., Knipe, D.M., Boutwell, C. & Allen, T.A. (2019). Immunization of BLT Humanized Mice Redirects T Cell Responses to Gag and Reduces Acute HIV-1 Viremia. Journal of Virology, JVI.00814-19, doi: 10.1128/JVI.00814-19. 
+Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E., Mellors, E.F., Glavin, B., Vrbanac, V.D., Krupp, K., **Bisesi, A.**, Tager, A.M., Knipe, D.M., Boutwell, C., Allen, T.A. (2019). Immunization of BLT Humanized Mice Redirects T Cell Responses to Gag and Reduces Acute HIV-1 Viremia. *Journal of Virology*, JVI.00814-19, doi: 10.1128/JVI.00814-19. 
+
+*In review*
+
+Shaw, A., **Bisesi, A.**, Wojan, C., Kim, D., Torstenson, M., Naven Narayanan, Lutz, P., Ales, R., Shao, C. (2024). Six personas to adopt when framing theoretical research questions in biology. *Proceedings of the Royal Society B*. 
+
+Connolly, J.A., Del Carratore, F., Schmidt, K., **Bisesi, A.**, Martinson, J.N.V., Chua, J., Kuhs, M., Boneza, M., Heinsch, S., Kinkel, L., Smanski, M., Harcombe, W.R., Breitling, R., Takano, E. (2024). Multi-omics study of a sympatric Streptomyces community and the key signalling function of siderophores. *The ISME Journal*.
 
 *In prep*
+
+**Bisesi, A.** and Harcombe, W. R. Metabolic remodeling of microbes by obligate intracellular parasites alters species ratios in microbial communities.
 
 **Bisesi, A.**, Rosenthal, J., and Roles, A.J. Testing mechanisms of rearrangement in the mitogenome of crayfish. 
 
@@ -61,12 +71,6 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 - National Science Foundation grant: "Phage host range evolution in spatially structured microbiomes"
 - Co-PIs: William R. Harcombe, Wolfram Moebius, Carey Nadell
-
-**Graduate Teaching Assistant** \hfill Aug 2021 - Jan 2022  
-*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
-
-- Course: BIOL 3409/5409 Evolution
-- Instructor and grader for two laboratory sections
 
 **Inclusive Excellence Fellow** \hfill Aug 2018 - June 2020  
 *Oberlin College, Howard Hughes Medical Institute, Oberlin, OH*
@@ -92,62 +96,107 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 # GRANTS AND AWARDS
 
+- **Elmer C. Birney Fellowship**, University of Minnesota \hfill 2024
+- **BTI Travel Award**, University of Minnesota \hfill 2024
+- **EEB Travel Award**, University of Minnesota \hfill 2024
+- **EEB Summer Fellowship**, University of Minnesota \hfill 2023
 - **EEB Travel Award**, University of Minnesota \hfill 2022
 - **AMS Summer Policy Colloquium Travel and Attendance Grant**, National Science Foundation \hfill 2021
 - **Chancellor’s Fellowship for Graduate Study (declined)**, University of California-Berkeley \hfill 2020 - 2022
 - **EEB Excellence Fellowship for Graduate Study**, University of Minnesota \hfill 2020 - 2021
+- **Institute for Cellular and Molecular Biology Graduate Fellowship (declined)**, University of Austin-Texas \hfill 2020 - 2021
 - **Carol Houck Smith Scholarship**, Warren Wilson College MFA Program for Writers \hfill 2020
 - **Scientific Teaching Fellow**, HHMI, NSF and Yale Center for Teaching and Learning \hfill 2019 - 2020
 - **Rodney Jack Scholarship**, Warren Wilson College MFA Program for Writers \hfill 2019 - 2020
 - **HHMI Post-Graduate STEM Fellowship**, Oberlin College \hfill 2018 - 2020
+- **Norman H. Wright Prize in Biology**, Oberlin College \hfill 2017
 - **ACCEL Undergraduate Research Fellowship**, Nemours Undergraduate Research Program \hfill 2016
+- **John F. Oberlin Scholarship**, Oberlin College \hfill 2013 - 2017
 
-# TEACHING
+# PRESENTATIONS, POSTERS AND EXHIBITS
 
-**Field Guides Mentor** \hfill Aug 2020 - present  
-*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+*Invited Talks*
 
-- Provide one-on-one mentorship and training for undergraduates in CBS interested in pursuing graduate school
+**Ave Bisesi**. Consequences of phage-induced metabolic reprogramming in multispecies bacterial communities. Talk presented at: UMN Virology Symposium 2023.
 
-**Teaching Assistant and Peer Tutor** \hfill Jan 2016 - May 2017  
-*Oberlin College, Department of Biology, Oberlin, OH*
+**Ave Bisesi**. Bacteriophage specialization is impacted by interactions between bacteria. Talk presented at: UMN Virology Symposium 2022.
 
-- Prepare lab equipment, demo experiments, work with the instructor to refine curriculum and lectures, provide academic support for students, hold office hours outside of lab time
-- Tutor and provide academic support to students 
+**Ave Bisesi**. Backward design and metacognition for optimizing inclusive teaching. Workshop presented at: Oberlin Workshop and Learning Sessions Fall 2019 Training; September, 2019; Oberlin College, Oberlin, OH. 
 
-**Quantitative Skills Peer Tutor and Workshop Instructor** \hfill Jan 2015 - May 2016  
-*Oberlin College, Center for Learning, Education and Research in the Sciences, Oberlin, OH*
+**Ave Bisesi**. Facilitation skills: tools for student leaders. Workshop presented at: Center for Student Success First Generation Peer Mentor Training Weekend; August, 2019; Oberlin College, Oberlin, OH. 
 
-- Tutor and provide academic support to students
-- Design lesson plans, give lectures, hold workshops, create assignments  
+**Ave Bisesi**. Burn-out and boundaries: self-care for inclusive pedagogy. Workshop presented at: Oberlin Workshop and Learning Sessions Spring 2019 Training; February, 2019; Oberlin College, Oberlin, OH.
 
-# CONFERENCE POSTERS AND PRESENTATIONS
+**Ave Bisesi**. Tackling implicit bias in the classroom: Tools for Faculty. Workshop presented at: Oberlin HHMI Departmental Action and Reflection Team Data Workshop; January 25, 2019; Oberlin College, Oberlin, OH. 
+
+*Contributed Talks*
+
+**Ave Bisesi**. Metabolic remodeling of microbes by obligate intracellular parasites alters species ratios in microbial communities. Talk presented at: ASM Conference 2024.
+
+**Ave Bisesi**. Metabolic remodeling of microbes by obligate intracellular parasites alters species ratios in microbial communities. Talk presented at: UMN Biofilms Symposium 2024.
 
 **Ave Bisesi**. Host interactions shape the evolution of specialization in bacteriophage. Talk presented at: Evolution Meetings 2021.
 
-**Ave Bisesi**. Backward Design and Metacognition for Optimizing Inclusive Teaching. Workshop presented at: Oberlin Workshop and Learning Sessions Fall 2019 Training; September 1, 2019; Oberlin College, Oberlin, OH. 
+**Ave Bisesi** and Nicollette Mitchell. CLEARing the Way: Establishing an inclusive peer mentorship program. Talk presented at: 2019 Project Kaleidoscope Upstate NY Regional Networking Meeting; April, 2019; Rochester Institute	of Technology, Rochester, NY.
 
-**Ave Bisesi**. Tackling Implicit Bias in the Classroom: Tools for Faculty. Workshop presented at: Oberlin HHMI Departmental Action and Reflection Team Data Workshop; January 25, 2019; Oberlin College, Oberlin, OH. 
+**Ave Bisesi**. Uncovering constraints on the evolution of genome architecture: a computational analysis of models of gene rearrangement in metazoan mitochondrial DNA. Talk presented at: Oberlin College Undergraduate Research Symposium 2017.
 
-**Ave Bisesi** and Nicollette Mitchell. CLEARing the Way: Establishing an Inclusive Peer Mentorship Program. Talk presented at: 2019 Project Kaleidoscope Upstate NY Regional Networking Meeting; April 13, 2019; Rochester Institute	of Technology, Rochester, NY.
+**Ave Bisesi**. Preclinical testing of targeted therapies in combination with eribulin in osteosarcoma . Talk presented at: Nemours Summer Undergraduate Research Symposium 2016.
+
+*Posters*
+
+**Ave Bisesi**. Bacteriophage host range is impacted by interactions between bacteria. Poster presented at: Ecology and Evolution of Infectious Diseases 2024.
+
+**Ave Bisesi**. Metabolic remodeling of microbes by obligate intracellular parasites alters species ratios in microbial communities. Poster presented at: International Conference of Microbiome Engineering 2023.
+
+**Ave Bisesi**. Bacteriophage host range is impacted by interactions between bacteria. Poster presented at: Microbial Population Biology Gordon Research Conference 2023.
+
+**Ave Bisesi**. Bacteriophage host range is impacted by interactions between bacteria. Poster presented at: ASM Conference 2023.
+
+**Ave Bisesi**. Bacteriophage specialization is impacted by interactions between bacteria. Poster presented at: ASM Conference 2022.
 
 **Ave Bisesi**. Uncovering Constraints on the Evolution of Genome Architecture: A Computational Analysis of Models of Gene Rearrangement in Metazoan Mitochondrial DNA. Poster presented at: Evolution Meetings 2017; June 25, 2017; Portland, OR.
 
-# MENTORSHIP
+# TEACHING AND MENTORING
+
+**Data Carpentries Instructor** \hfill Sept 2022 - present  
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- Certified instructor for Data Carpentries Core Curriculum, including: Data Carpentry, Library Carpentry, and Software Carpentry
+- Co-instructor for \LaTeX, Unix shell scripting, R for Reproducible Data Science, and Python workshops hosted at the UMN
 
 **Undergraduate Resarch Mentor** \hfill Aug 2020 - present  
 *University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
 
-- Provide lab training and supervision, advise individual and collaborative undergraduate projects
+- Provide lab training and supervision, oversee individual and collaborative undergraduate projects
 - 2020-2021: Carissa Metzger
 - 2021-2022: Carissa Metzger, Carmen Crutchfield
+- 2023-2024: Echo Ireland
+- 2024: Lachlan Cotner
 
-**Field Guides Mentor** \hfill Aug 2020 - present  
+**Graduate Teaching Assistant** \hfill Fall 2021 and Fall 2023   
+*University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
+
+- Course: BIOL 3409/5409 Evolution
+- Instructor and grader for two laboratory sections
+
+**Field Guides Mentor** \hfill Aug 2020 - May 2023  
 *University of Minnesota, Department of Ecology, Evolution and Behavior, St. Paul, MN*
 
 - Meet bi-weekly to provide a one-on-one resource for information regarding graduate school and science careers
 - 2020-2021: Kayla Siemann
 - 2021-2022: Kayla Siemann, Sydney Gunter
+- 2022-2023: Aubrey Wendorff, Emily Hughes
+
+**Teaching Assistant and Peer Tutor** \hfill January 2015 - May 2017    
+*Oberlin College, Department of Biology, Oberlin, OH*
+
+- Teaching assistant and peer tutor; responsible for preparing lab equipment, demoing experiments, refining curriculum and lectures, and tutoring and providing academic support to students
+
+**Quantitative Skills Peer Tutor and Workshop Instructor** \hfill January 2015 - May 2016    
+*Oberlin College, Department of Biology, Oberlin, OH*
+
+- Quantitative skills tutor and workshop instructor; responsible for tutoring and	providing academic support to students and working with the instructor of record to design	supplemental lesson plans, lectures, workshops and assignments 
 
 # OUTREACH AND ADVOCACY
 
@@ -155,6 +204,16 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 *University of Minnesota - Twin Cities, Minneapolis, MN*
 
 - Workshop facilitator and volunteer for twice-yearly events showcasing scientific research at the university level for local LGBTQ high school students
+
+**CBS UROP Proposal Review** \hfill November 2023  
+*University of Minnesota - Twin Cities, Minneapolis, MN*
+
+- Application reviewer for the College of Biological Sciences’ undergraduate research opportunity program
+
+**BTI Community Outreach, Retention and Engagement Program** \hfill March 2023    
+*University of Minnesota - Twin Cities, Minneapolis, MN*
+
+- Volunteer for events showcasing scientific research at the university level for high school students and families
 
 **Institute on the Environment Graduate Scholar** \hfill Aug 2021 - May 2022  
 *University of Minnesota - Twin Cities, St. Paul, MN*
@@ -177,8 +236,26 @@ Claiborne, D., Dudek, T., Maldini, C., Power, K.A., Ghebremichael, M., Seung, E.
 
 # PROFESSIONAL SERVICE
 
-- EEB Diversity and Equity Graduate Committee \hfill 2020 - present
-- EEB Ethics Committee \hfill 2020 - present
+**Field Guides Planning Committee** \hfill August 2022 - present    
+*University of Minnesota, St Paul, Minnesota*
+
+- Member of the planning committee for the Field Guides program, responsible for coordinating mentorship pairs, planning and leading mentoring workshops, and planning and hosting informational events for undergraduates 
+
+**EEB Ethics Committee** \hfill August 2020 - August 2023   
+*University of Minnesota, St Paul, Minnesota*
+
+- Member of the graduate student ethics committee, responsible for planning and leading two seminars per semester on topics in research ethics
+
+**Welcome Week Graduate Student Panelist** \hfill January 2022    
+*University of Minnesota, St Paul, Minnesota*
+
+- Participant in a panel discussion about graduate school and research for prospective EEB graduate students
+
+**EEB Diversity Committee** \hfill August 2020 - August 2021    
+*University of Minnesota, St Paul, Minnesota*
+
+- Member of the graduate student diversity committee
+
 
 # PROFESSIONAL AFFILIATIONS
 
